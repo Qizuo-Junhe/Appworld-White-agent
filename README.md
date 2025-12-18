@@ -1,12 +1,14 @@
 # AppWorld White Agent
 
-This repository contains the **White Agent** development branch, designed to solve complex multi-app tasks within the [AppWorld](https://appworld.dev/) simulated environment.
+This repository contains the White Agent development branch, designed to solve complex multi-app tasks within the AppWorld simulated environment.
 
-> [!IMPORTANT]
-> **Version Note:**
->
-> * **Current Version (White Agent):** This repository is dedicated to the **core development and debugging** of the White Agent. This specific version is **not yet adapted** for the AgentBeats framework.
-> * **AgentBeats Compatible Version (Green Agent):** If you require the version that is fully compatible with AgentBeats for standard evaluation, please visit the [Green Agent Repository](https://github.com/keyueliao/green-agent).
+[!IMPORTANT] Version Note:
+
+I will upload the complete execution logs for train, dev, test-n, and test-c datasets under the log/ directory to facilitate result verification and reproducibility.
+
+Current Version (White Agent): This repository is dedicated to the core development and debugging of the White Agent. This specific version is not yet adapted for the AgentBeats framework.
+
+AgentBeats Compatible Version (Green Agent): If you require the version that is fully compatible with AgentBeats for standard evaluation, please visit the Green Agent Repository.
 
 ---
 
