@@ -1,5 +1,11 @@
 # AppWorld White Agent
 
+> **Course Project:** UC Berkeley CS194
+> > **Team Members:** 
+> - Jinhao Yu (qizuojunhe04@gmail.com)
+> - Keyue Liao (kl4714@berkeley.edu)
+> - Yilin Liu (yilinliu610@berkeley.edu)
+
 This repository contains the White Agent development branch, designed to solve complex multi-app tasks within the AppWorld simulated environment.
 
 [!IMPORTANT] Version Note:
